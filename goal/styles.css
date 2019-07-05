@@ -25,6 +25,13 @@
     margin-top:10px;
 }
 
+.contenido_centrado div{
+    align-items: center;
+    align-items: center;
+    
+    
+}
+
 .daily-goals h2{
     font-family: 'Russo One', sans-serif;
     font-size: 15px;
